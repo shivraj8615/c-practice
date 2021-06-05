@@ -1,0 +1,79 @@
+                                        Algorithms
+
+  (1)   Step 1 : Entre the distance in km.
+        Step 2 : m = km*1000
+        Step 3 : cm = m*100
+        Step 4 : ft = cm*0.0328084
+        Step 5 : inch = ft*12
+        Step 6 : print m,cm,ft,inch
+
+  (2)   Step 1 : Entre the length and breadth.
+        Step 2 : area_R = length*breadth
+        Step 3 : perimeter_R = 2*(length+breadth)
+        Step 4 : Entre the radius. 
+        Step 5 : area_C = pi*radius*radius
+        Step 6 : Circumference = 2*pi*radius
+        Step 7 : print area_R,perimeter_R,area_C,perimeter_C
+
+  (3)
+        
+        Step 1 : Entre a five digit number.
+        Step 2 : assign value of sum = 0 first
+        Step 3 : b = n%10,n = n/10,sum = sum+b
+        Step 4 : b = n%10,n = n/10,sum = sum+b
+        Step 5 : b = n%10,n = n/10,sum = sum+b
+        Step 6 : b = n%10,n = n/10,sum = sum+b
+        Step 7 : sum = sum+n
+        Step 8 : Print sum
+
+  (4)
+        Step 1 : Enter a five digit number.
+        Step 2 : assign value of sum = 0 first
+        Step 3 : b = n%10,n = n/10,sum = sum+b*10000
+        Step 4 : b = n%10,n = n/10,sum = sum+b*1000
+        Step 5 : b = n%10,n = n/10,sum = sum+b*100
+        Step 6 : b = n%10,n = n/10,sum = sum+b*10
+        Step 7 : sum = sum+n
+        Step 8 : Print sum
+
+  (5)
+        Step 1 : Enter the value for the value of 'C'
+        Step 2 : Enter the value for the value of 'D'
+        Step 3 : Print the value of 'C =%d',D)like this
+        Step 4 : Print the value of 'D =%d',C)like this
+
+  (6)
+        Step 1 : Enter a four digit number.
+        Step 2 : assign value of sum = 0 first
+        Step 3 : b = n%10,n = n/10,sum = sum+b
+        Step 4 : b = n%10,n = n/10
+        Step 5 : b = n%10,n = n/10
+        Step 6 : sum = sum+n
+        Step 7 : Print sum
+
+  (7)
+        Step 1 : no. of men = 52% of total population
+        Step 2 : no. of literate people = 48% of total population 
+        Step 3 : no. of literate men = 35% of total population
+        Step 4 : no. of iliterate men = no. of men - no. of litrate men 
+        Step 5 : no. of literate women = no. of literate people - no. of literate men
+        Step 6 : no. of women = total population - no. of men
+        Step 7 : no. of iliterate women = no. of women - no. of literate women
+        Step 8 : no. of total iliterate people = no. of iliterate men + no. of iliterate women
+        Step 9 : Print no. of total iliterate
+
+  (8)
+        Step 1 : Enter  selling price/ object.
+        Step 2 : Enter profit/ object.
+        Step 3 : cost price = selling price + profit
+        Step 4 : Total cost price = 15*cost price
+        Step 5 : Print Total cost price. 
+ 
+     
+ 
+         
+        
+        
+      
+
+       
